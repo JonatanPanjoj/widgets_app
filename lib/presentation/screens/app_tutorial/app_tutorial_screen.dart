@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
-class TutorialScreen extends StatelessWidget {
+class AppTutorialScreen extends StatelessWidget {
 
   static const name = 'tutorial_screen';
 
-  const TutorialScreen({super.key});
+  const AppTutorialScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
