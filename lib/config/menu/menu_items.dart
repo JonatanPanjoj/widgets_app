@@ -16,6 +16,12 @@ class MenuItem {
 
 const appMenuItems = <MenuItem> [
   MenuItem(
+    title: 'Chat', 
+    subTitle: 'Chatea con chat GPT', 
+    link: '/chat-screen', 
+    icon: Icons.wechat_rounded,
+  ),
+  MenuItem(
     title: 'Temas', 
     subTitle: 'Cambia el color y modo de tema', 
     link: '/theme-changer', 
