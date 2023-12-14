@@ -1,4 +1,3 @@
-export 'package:widgets_app/presentation/screens/chat_screen/chat_screen.dart';
 export 'package:widgets_app/presentation/screens/theme_changer/theme_changer_screen.dart';
 export 'package:widgets_app/presentation/screens/counter/counter_screen.dart';
 export 'package:widgets_app/presentation/screens/animated/animated_scren.dart';
